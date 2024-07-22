@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 
 - **Node.js**: Make sure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
 - **Expo CLI**: Install Expo CLI globally by running:
-  ```bash
+
   npm install -g expo-cli
 
 
@@ -30,4 +30,4 @@ Start the Development Server:
 Run the development server using:
 
 
-expo start# StaffAttendanceAndTaskTracker
+expo start
